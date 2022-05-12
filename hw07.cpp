@@ -1,7 +1,3 @@
-// Kristen Post
-// CS-UY 2124
-// Homework 7
-// 04/15/2020
 /* Purpose of Code: To expand the world of Warriors and Nobles by means of inheritance.
  Now, there are two types of Nobles; Lord and PersonWithStrength. Instead of simply having Warriors,
  there will be a Protector class, from which classes Wizards and Warriors will be derived from.  
