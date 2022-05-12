@@ -7,7 +7,7 @@
 
 using namespace std;
 
-// Noble - BASE Class (for Lord and PersonWithStrength)
+// Noble - BASE Class
 
 namespace WarriorCraft {
 
