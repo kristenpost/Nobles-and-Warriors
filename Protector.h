@@ -7,7 +7,7 @@
 #define PROTECTOR_H
 using namespace std;
 
-// Protectors - BASE Class (the "warriors" from the previous assignments)
+// Protectors - BASE Class
 
 namespace WarriorCraft {
 
